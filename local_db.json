@@ -1,0 +1,410 @@
+{
+  "users": {
+    "01d17d336903": {
+      "name": "kanishk",
+      "age": 25,
+      "monthly_income": 60000.0,
+      "rent": 10000.0,
+      "emi": 0.0,
+      "utilities": 3000.0,
+      "other_fixed": 2000.0,
+      "risk_level": "medium",
+      "goals": [],
+      "id": "01d17d336903",
+      "created_at": "2026-03-29T11:58:47.888681",
+      "updated_at": "2026-03-29T11:58:47.888681"
+    }
+  },
+  "transactions": {
+    "01d17d336903": [
+      {
+        "user_id": "01d17d336903",
+        "amount": 3499,
+        "category": "Education",
+        "description": "Coding bootcamp EMI",
+        "date": "2026-03-02",
+        "id": "a035e57a816b"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 1177,
+        "category": "Entertainment",
+        "description": "Movie tickets - PVR",
+        "date": "2026-03-02",
+        "id": "79bb522b3dcc"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 3257,
+        "category": "Shopping",
+        "description": "Amazon order",
+        "date": "2026-03-02",
+        "id": "9b81d7bc6a28"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 2025,
+        "category": "Bills",
+        "description": "Electricity bill",
+        "date": "2026-03-03",
+        "id": "fd97b3707a42"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 1065,
+        "category": "Entertainment",
+        "description": "Movie tickets - PVR",
+        "date": "2026-03-03",
+        "id": "bb888a70649d"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 4064,
+        "category": "Food",
+        "description": "Grocery - BigBasket",
+        "date": "2026-03-05",
+        "id": "ca282ad8f054"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 185,
+        "category": "Food",
+        "description": "Office lunch",
+        "date": "2026-03-07",
+        "id": "2ae713919772"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 2037,
+        "category": "Bills",
+        "description": "Electricity bill",
+        "date": "2026-03-09",
+        "id": "d2a558eee693"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 1789,
+        "category": "Shopping",
+        "description": "Flipkart purchase",
+        "date": "2026-03-09",
+        "id": "83a39f20f57a"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 963,
+        "category": "Entertainment",
+        "description": "Movie tickets - PVR",
+        "date": "2026-03-10",
+        "id": "e95011d46ecc"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 4203,
+        "category": "Food",
+        "description": "Grocery - BigBasket",
+        "date": "2026-03-10",
+        "id": "9dd84193e93a"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 4143,
+        "category": "Entertainment",
+        "description": "Concert tickets",
+        "date": "2026-03-10",
+        "id": "51e9b3edbbd2"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 189,
+        "category": "Food",
+        "description": "Chai & snacks",
+        "date": "2026-03-10",
+        "id": "ed6f3565e98b"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 191,
+        "category": "Food",
+        "description": "Chai & snacks",
+        "date": "2026-03-10",
+        "id": "f059fc092c76"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 973,
+        "category": "Entertainment",
+        "description": "Bowling / arcade",
+        "date": "2026-03-12",
+        "id": "d89e7caa0f91"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 806,
+        "category": "Travel",
+        "description": "Metro recharge",
+        "date": "2026-03-13",
+        "id": "661c87f51619"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 2461,
+        "category": "Food",
+        "description": "Restaurant dinner",
+        "date": "2026-03-13",
+        "id": "34d1a5965af3"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 886,
+        "category": "Bills",
+        "description": "WiFi - Jio Fiber",
+        "date": "2026-03-14",
+        "id": "2b7c5dd2768b"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 176,
+        "category": "Food",
+        "description": "Office lunch",
+        "date": "2026-03-14",
+        "id": "19d1f7ab2ca0"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 988,
+        "category": "Bills",
+        "description": "WiFi - Jio Fiber",
+        "date": "2026-03-16",
+        "id": "00276b983d95"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 543,
+        "category": "Entertainment",
+        "description": "Bowling / arcade",
+        "date": "2026-03-19",
+        "id": "436f64ec660a"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 1454,
+        "category": "Entertainment",
+        "description": "Bowling / arcade",
+        "date": "2026-03-20",
+        "id": "19d6eec8d861"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 451,
+        "category": "Food",
+        "description": "Zomato order",
+        "date": "2026-03-21",
+        "id": "f9ec663e8844"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 671,
+        "category": "Food",
+        "description": "Zomato order",
+        "date": "2026-03-22",
+        "id": "284eff229f17"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 425,
+        "category": "Food",
+        "description": "Swiggy delivery",
+        "date": "2026-03-23",
+        "id": "34b6ae4d495d"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 748,
+        "category": "Food",
+        "description": "Swiggy delivery",
+        "date": "2026-03-23",
+        "id": "709920dbc64b"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 902,
+        "category": "Education",
+        "description": "Udemy course",
+        "date": "2026-03-24",
+        "id": "aee2695c4fa4"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 390,
+        "category": "Food",
+        "description": "Office lunch",
+        "date": "2026-03-24",
+        "id": "5654dbeaa1f3"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 981,
+        "category": "Entertainment",
+        "description": "Movie tickets - PVR",
+        "date": "2026-03-25",
+        "id": "edcfeebc4b6a"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 1021,
+        "category": "Food",
+        "description": "Zomato order",
+        "date": "2026-03-26",
+        "id": "f5b3469f770b"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 1803,
+        "category": "Entertainment",
+        "description": "Gaming purchase",
+        "date": "2026-03-26",
+        "id": "920ffa373873"
+      },
+      {
+        "user_id": "01d17d336903",
+        "amount": 1131,
+        "category": "Entertainment",
+        "description": "Movie tickets - PVR",
+        "date": "2026-03-26",
+        "id": "92bc2245e997"
+      }
+    ]
+  },
+  "plans": {
+    "01d17d336903": {
+      "budget_allocations": [
+        {
+          "category": "Food",
+          "amount": 9000,
+          "percentage": 20
+        },
+        {
+          "category": "Travel",
+          "amount": 3600,
+          "percentage": 8
+        },
+        {
+          "category": "Entertainment",
+          "amount": 3150,
+          "percentage": 7
+        },
+        {
+          "category": "Shopping",
+          "amount": 3600,
+          "percentage": 8
+        },
+        {
+          "category": "Health",
+          "amount": 2700,
+          "percentage": 6
+        },
+        {
+          "category": "Education",
+          "amount": 2700,
+          "percentage": 6
+        },
+        {
+          "category": "Savings",
+          "amount": 13500,
+          "percentage": 30
+        },
+        {
+          "category": "Investments",
+          "amount": 6750,
+          "percentage": 15
+        }
+      ],
+      "total_savings_target": 13500,
+      "sip_suggestions": [
+        {
+          "fund_type": "Nifty 50 Index Fund",
+          "monthly_amount": 3375,
+          "reasoning": "Low-cost market exposure, ideal for beginners"
+        },
+        {
+          "fund_type": "Flexi Cap Fund",
+          "monthly_amount": 2025,
+          "reasoning": "Diversified across market caps"
+        },
+        {
+          "fund_type": "Liquid Fund",
+          "monthly_amount": 1350,
+          "reasoning": "Emergency fund parking with better returns than savings account"
+        }
+      ],
+      "summary": "With \u20b960000.0 monthly income and \u20b915000.0 in fixed expenses, you have \u20b945000.0 disposable income. We recommend saving \u20b913500/month and investing \u20b96750/month via SIPs.",
+      "user_id": "01d17d336903",
+      "id": "58c8d55139fb",
+      "created_at": "2026-03-29T11:59:02.854528"
+    }
+  },
+  "alerts": {
+    "01d17d336903": [
+      {
+        "severity": "critical",
+        "title": "Food Overspending Alert",
+        "message": "You spent \u20b96,175 more on Food than budgeted (\u20b915,175 vs \u20b99,000).",
+        "suggested_action": "Reduce Food spending by \u20b96,175 next month. Consider setting a daily limit of \u20b9300.",
+        "created_at": "2026-03-29T11:59:44.178115",
+        "is_read": false,
+        "id": "37bd7a8fba5f",
+        "user_id": "01d17d336903"
+      },
+      {
+        "severity": "info",
+        "title": "\ud83d\udc9a Travel Under Budget",
+        "message": "Great job! You saved \u20b92,794 on Travel this month.",
+        "suggested_action": "Consider investing the \u20b92,794 surplus into your SIP.",
+        "created_at": "2026-03-29T11:59:44.178115",
+        "is_read": false,
+        "id": "906a389d6f86",
+        "user_id": "01d17d336903"
+      },
+      {
+        "severity": "critical",
+        "title": "Entertainment Overspending Alert",
+        "message": "You spent \u20b911,083 more on Entertainment than budgeted (\u20b914,233 vs \u20b93,150).",
+        "suggested_action": "Reduce Entertainment spending by \u20b911,083 next month. Consider setting a daily limit of \u20b9105.",
+        "created_at": "2026-03-29T11:59:44.178115",
+        "is_read": false,
+        "id": "eccb30bdaaa6",
+        "user_id": "01d17d336903"
+      },
+      {
+        "severity": "critical",
+        "title": "Shopping Overspending Alert",
+        "message": "You spent \u20b91,446 more on Shopping than budgeted (\u20b95,046 vs \u20b93,600).",
+        "suggested_action": "Reduce Shopping spending by \u20b91,446 next month. Consider setting a daily limit of \u20b9120.",
+        "created_at": "2026-03-29T11:59:44.178115",
+        "is_read": false,
+        "id": "f005f9dc56c9",
+        "user_id": "01d17d336903"
+      },
+      {
+        "severity": "critical",
+        "title": "Education Overspending Alert",
+        "message": "You spent \u20b91,701 more on Education than budgeted (\u20b94,401 vs \u20b92,700).",
+        "suggested_action": "Reduce Education spending by \u20b91,701 next month. Consider setting a daily limit of \u20b990.",
+        "created_at": "2026-03-29T11:59:44.178115",
+        "is_read": false,
+        "id": "4dc614fe0f6e",
+        "user_id": "01d17d336903"
+      },
+      {
+        "severity": "critical",
+        "title": "Savings Goal at Risk",
+        "message": "You're behind on your savings goal by \u20b914,097 this month.",
+        "suggested_action": "Cut discretionary spending by \u20b914,097 or set up auto-debit for savings on salary day.",
+        "created_at": "2026-03-29T11:59:44.178115",
+        "is_read": false,
+        "id": "e67d611dbaf7",
+        "user_id": "01d17d336903"
+      }
+    ]
+  }
+}
