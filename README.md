@@ -186,9 +186,6 @@ OPENAI_API_KEY=your_api_key
 
 ---
 
-## Demo Video
-
-Add your 3 minute demo link here
 
 ---
 
@@ -199,9 +196,7 @@ MIT License
 ---
 
 ## Team
-
-Your Name
-Teammate Name
+was a hackthon project
 
 ---
 
