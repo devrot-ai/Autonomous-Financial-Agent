@@ -1,0 +1,7 @@
+{
+  "root": ".",
+  "pythonPlatform": "Windows",
+  "extraPaths": ["."],
+  "reportMissingImports": false,
+  "reportMissingModuleSource": false
+}
