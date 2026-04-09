@@ -4,7 +4,7 @@ An AI powered, agent based financial assistant that analyzes, adapts, and takes 
 
 ---
 
-## Problem
+## problem faced by personally myself 
 
 Young professionals in India are earning their first stable incomes but struggle with:
 
