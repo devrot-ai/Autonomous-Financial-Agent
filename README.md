@@ -1,207 +1,49 @@
-# Autonomous Financial Agent for Young Indian Professionals
+# Autonomous Financial Agent
 
-An AI powered, agent based financial assistant that analyzes, adapts, and takes action to improve users’ financial health in real time.
+A financial assistant that actually does something instead of just showing you charts. You tell it your income, expenses, and goals. It makes a plan, watches your spending, and warns you when you are going off track.
 
----
+Built for the ET AI Hackathon 2026.
 
-## problem faced by personally myself 
+## Why It Exists
 
-Young professionals in India are earning their first stable incomes but struggle with:
+Most finance apps show you dashboards. They tell you what you spent last month but do not help you do better. This one is different. It uses several AI agents working together — one makes the plan, one watches your spending, one suggests investments, and one sends alerts when something is wrong.
 
-* Unconscious overspending
-* Delayed savings and investments
-* Financial anxiety due to lack of guidance
+## How It Works
 
-Existing applications focus on dashboards and tracking rather than actionable intelligence.
-
----
-
-## Solution
-
-This project introduces an autonomous financial agent that:
-
-* Understands income, expenses, and financial goals
-* Generates personalized financial plans
-* Continuously monitors spending behavior
-* Detects financial issues such as overspending and missed savings
-* Recommends corrective actions and adapts strategies over time
-
-This is not a chatbot. It is a multi agent AI system designed for continuous decision support.
-
----
-
-## Key Features
-
-### Smart Financial Planning
-
-* Generates budget allocation and savings targets
-* Suggests investment plans such as SIPs based on user profile
-
-### Spending Intelligence
-
-* Tracks and analyzes transaction patterns
-* Identifies overspending across categories
-
-### Real Time Alerts
-
-* Notifies users when budgets are exceeded
-* Provides actionable recommendations
-
-### Adaptive AI Behavior
-
-* Adjusts plans based on user activity
-* Learns from historical financial behavior
-
-### Financial Health Score
-
-* Provides a dynamic score indicating financial stability
-
----
-
-## System Architecture
-
-The system is built using a multi agent architecture:
-
-### Planner Agent
-
-Creates the initial financial plan based on user input
-
-### Spending Analyzer Agent
-
-Analyzes transaction data and identifies behavioral patterns
-
-### Investment Advisor Agent
-
-Recommends and adjusts investment strategies
-
-### Alert and Action Agent
-
-Triggers alerts and suggests corrective measures
-
-### Memory System
-
-Stores user data and enables continuity across sessions
-
----
-
-## Tech Stack
-
-Frontend: React with Tailwind CSS
-Backend: FastAPI with Python
-AI Engine: OpenAI or Gemini API
-Database: Firebase or Supabase
-Visualization: Recharts or Chart.js
-
----
-
-## Project Structure
-
-/backend
-/agents
-planner.py
-analyzer.py
-advisor.py
-alert.py
-/routes
-user.py
-insights.py
-main.py
-
-/frontend
-/components
-Dashboard.jsx
-Alerts.jsx
-InputForm.jsx
-App.jsx
-
----
+You enter your income, expenses, and what you want to save for. The planner agent creates a budget. As you spend money, the analyzer agent watches for patterns. If you are spending too much on dining out, it lets you know. The advisor agent suggests where to invest. Everything adjusts as your habits change.
 
 ## Getting Started
 
-### Clone the Repository
+Start the backend:
 
-git clone https://github.com/your-username/financial-agent
-cd financial-agent
-
----
-
-### Backend Setup
-
+```bash
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
+```
 
----
+Start the frontend:
 
-### Frontend Setup
-
+```bash
 cd frontend
 npm install
 npm start
+```
 
----
+Create a `.env` file in the backend folder with your OpenAI API key:
 
-### Environment Variables
-
-Create a .env file in the backend directory:
-
+```
 OPENAI_API_KEY=your_api_key
+```
 
----
+## What You Get
 
-## Demo Flow
+A budget plan based on your income. Spending alerts when you go over. Investment suggestions like SIPs. A financial health score that changes as you improve. All built with React on the frontend and FastAPI on the backend.
 
-1. User enters income, expenses, and goals
-2. The system generates a financial plan
-3. Mock transaction data simulates real usage
-4. The system detects overspending patterns
-5. Alerts are generated
-6. The plan is adjusted dynamically
+## What Comes Next
 
----
-
-## Impact Model
-
-* Reduces financial planning time from hours to minutes
-* Reduces overspending by an estimated 20 to 30 percent
-* Improves savings rate by approximately 25 percent
-
----
-
-## What Makes It Different
-
-* Multi agent architecture instead of a single model response
-* Action oriented system rather than passive advice
-* Continuous adaptation based on user behavior
-* Designed specifically for Indian financial habits
-
----
-
-## Future Scope
-
-* Integration with banking APIs and UPI systems
-* Automated investment execution
-* Voice enabled financial assistant
-* Advanced risk profiling and personalization
-
----
-
-
----
+Banking API integration so it connects to your actual accounts. UPI support. Voice commands. Automatic investment execution.
 
 ## License
 
-MIT License
-
----
-
-## Team
-was a hackthon project
-
----
-
-## Final Note
-
-This project presents a shift from passive financial tracking to an active AI driven system that helps users make better financial decisions and build long term stability.
-
-Built for ET AI Hackathon 2026
+MIT
